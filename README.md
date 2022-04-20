@@ -14,7 +14,7 @@
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="top" display="flex" alt="pikachu" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif">
+  <img align="right" display="flex" alt="pikachu" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif">
   </div> 
 </div>
   
