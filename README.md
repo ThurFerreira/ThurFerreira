@@ -16,10 +16,6 @@
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-<div style="display: flex"<br>
-<img align="right" display="flex" alt="pikachu" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif">
-</div>
-
 <div>
   <div style=margin:10px><br>
   <a href="https://www.instagram.com/arthur.ark/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
