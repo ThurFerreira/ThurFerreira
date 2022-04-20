@@ -3,8 +3,8 @@
 <div align="left" style="display: flex">
   <a href="https://github.com/ThurFerreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThurFerreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThurFerreira&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThurFerreira&layout=compact&langs_count=7&theme=dark"/>
+</div> -->
   
 <div style="display: inline_block"<br>
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
@@ -14,6 +14,7 @@
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif">
 </div>
 
 <div>
