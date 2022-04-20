@@ -1,4 +1,4 @@
-# *Olá, meu nome é Arthur Ferreira. Bem vindo ao meu perfil no GitHub!*
+# *Olá, eu sou Arthur Ferreira. Bem vindo ao meu perfil no GitHub!*
 
 <div align="left">
   <a href="https://github.com/ThurFerreira">
